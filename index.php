@@ -29,7 +29,7 @@ include_once 'configuraciones/bd.php';
 
     <div class="container">
     <div class="row">
-        <div class="col-12 mt-3">
+        <div class="col-xl-12 mt-3">
 
         
 <div class="card">
@@ -39,7 +39,7 @@ include_once 'configuraciones/bd.php';
     </div>
     <div class="card-body">
         <div class="table-responsive-sm">
-            <table class="table">
+            <table class="table col-6 col-xl-12" >
                 <thead>
                     <tr>
                         <th style="color: #22223b" scope="col">Nombre</th>
